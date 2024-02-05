@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working with team SLSV on  [Souslesens](https://github.com/souslesens/souslesensVocables) And [JOWL](https://github.com/souslesens/JOWL)
 
-- 🌱 I’m currently learning **Kubernetes,prometheus,grafana,**
-
-- 📫 How to reach me **aminekaroui.engineering@yahoo.com**
+- 📫 How to reach me **aminekaroui.engineering@yahoo.com** Or **+216 55236241**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

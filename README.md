@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k3r0ui&label=Profile%20views&color=b40e77&style=flat" alt="k3r0ui" /> </p>
 
 - 🔭 I’m currently working on the EXCELAB-AIRBUS project [ Private Project ].
-- 🔭I was actively involved in SousLeSens and JOWL [Souslesens](https://github.com/souslesens/souslesensVocables) And [JOWL](https://github.com/souslesens/JOWL)
+- ✌️I was actively involved in [SousLeSens](https://github.com/souslesens/souslesensVocables)  And [JOWL](https://github.com/souslesens/JOWL)
 
 - 📫 How to reach me **aminekaroui.engineering@yahoo.com** Or **+216 55236241** / **+33758822409**
 
